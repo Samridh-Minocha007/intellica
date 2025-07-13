@@ -61,13 +61,6 @@
 
 ---
 
-## 📈 Proven Impact & Metrics
-
-- ✅ 45% increase in user retention with AI-curated learning playlists  
-- ✅ 50% growth in engagement from multilingual delivery  
-- ✅ 30% improvement in course completion through smart reminders  
-- ✅ 35% rise in course enrollments via real-time scraping  
-- ✅ 25% drop in user dropouts through adaptive paths  
 
 ---
 
